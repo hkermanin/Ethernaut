@@ -1,0 +1,3185 @@
+{
+  "transactions": [
+    {
+      "hash": "0x0cd1498d9abe437875ccba73e851ddbddcf7a9c5744683935e9dadc00bb7d5ea",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "approve(address,uint256)",
+      "arguments": [
+        "0x47cE967eAb4CCa879A424Ed5720424ae37bf9B0c",
+        "100000"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x10606",
+        "value": "0x0",
+        "input": "0x095ea7b300000000000000000000000047ce967eab4cca879a424ed5720424ae37bf9b0c00000000000000000000000000000000000000000000000000000000000186a0",
+        "nonce": "0x95",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x3ce64e0c76f61bccc97a62f2cfbf05f21ac384362a2fdbcd67ac1d7decf33145",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x96",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xe4c1a8e70f877e1df9427c1255337d27e820b32586d10a922ea722dab218b65e",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x97",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xf8fa86f74aa34ea2de19cadb75728bdf5287f71350295ad703f80382c8308034",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x98",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x3cd940be4f17ae3a46dda7303623eb0a875c7623018384cc7ab0478baefac610",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x99",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xab51bd284e3bcf9bbca35cbd13300fdb76b7e6d186950e014d05153d611c8132",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9a",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x8c90bc548ab207e7a31977e161db5a65c2363165b49185dd0473d36cfaf0dc03",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9b",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x96a105c36990e813dbb195c74625118e3f9e0290afe94ab6ff1ae047737b863b",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9c",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x0ab7f4867697990c19a861b76cf9e61eb366dc7cd10e245228415c1037ce76ee",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9d",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x94aa87ca762d46a0d1f30b79ca3ada7403f63aa7497642896dcc69706b9da808",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9e",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xf1659895ca2c83769fa00069746e2565e616f89f93fb3a6e0a96d5cb648cd550",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x9f",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xc778b70dcdd15762aa19c6b46bb83613f112d8630166a7e069e4deb300d91a8a",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x087a82f12389b478f5a234624ec4979352dac15c43eff00517665315789e76ec",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x9e953875c75380938a901e7dac87c09b541d7091c1aff22cc1fa8101e9a16150",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xba168e8af3aa53f48c669046bd26511abcf2a31fe6bd86f4b9add145c1a6c30b",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x242166855f32e968d136650ba7c2253d98092b91bb8fc526b38aff020c09c118",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xee38535aa9d41d86b437dd6fbbe59e90f9b9445e3622f023b24f7f2eb578c7b4",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xebb2a9254c4bcfd1625f9e73b1094f0c449daf5aba5caec56b3f49c4bba76f5f",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xf8819fcf525926e11081016cfa1d56036f9644aba661903272b4beda6364c773",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x8edb871cf51108e0d1fccd731cac4cd1f00b759310ad3c748c5a5b8e737a4942",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xf8bb4c4b1f6b4f52350f9355b78b665c0abd8375e3bccf7f35ddf014b2889880",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xa9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x0f1df3e59ea1ca173263069fd7f3968647423c5811690c1f1694989043bce3d8",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xaa",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x904cd902409ebd3231b6651b432cba189a8a4f10d333054775c322518020d978",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xab",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x38619a18e57a9f14b4d78e34c5fe261f1412edb18168c41124bb17c781b66030",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xac",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x474b3201b0a168acc888c9d5d316d200c67ea48b32ff0097bbb126db9497fa7c",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xad",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x82ce75d1d31f1ec429a78deb5b363721e4f99fa1757c1edc4553a9c9a6c1d126",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xae",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xe59111ed1136cb17c95ab0799dacc9a6065dbc6d9f254bc690626d321a19fc6f",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xaf",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xc9b7f128f1b4c6ef3e2fd76eaa6e500a2bb156f0f25e221e1c33f38505d5c7ae",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xae136c542df9ceb3549db73b9223d574969134dee0714945aefd9be94f3cb392",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x71161a4e4c52395c2ab0e22399d32f1caf5e1edb2d5853233a4b2260e85dd73a",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x0519493fc31779166c865a3702213a51f9dd6475863f25153635605139404c98",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x7dea85eab449ca797b605ea0d4b402f9680654c0007a76e73397d2bbe7579e29",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x195fec4ca3e2968c3afc4fd62204ce5754727916e2938fe65d6a2636cc6e22c3",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x8b2caddfe9fb0735c961777a21452b8adb5c845c7203fa07a068e439a7bfb8a6",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xdb1883c1296a4df29f3af9eddb01bee6adab04eae3f12550e84464108a9718a3",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x888396408c34906a8968518704dd6870a5eb0455f1f36018f0b74d753b950887",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xbb89e07b09fb771fe664406a19ce80e14e79a593ad20a7f540f95499e4bcb0ce",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xb9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xcb5e327843b4cbef13830a128fe49151826e78255bf48185f879a1b3fa521561",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xba",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xfaa44aa4337b4920b3e5827c8aad27c35881a4a50d0ca8cf27084bbfecd66b0d",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xbb",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x45709db0401414a790ae54ffafb4c3bd9830d2d6f3af84ae86cb0cc8f8fbf8bb",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xbc",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xabb4fa89e7b0f7584a79dd313a2a5c6f79850203074416db337505c0f7462638",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xbd",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x4f80a73e80dc27cab49e366b6417e5928b7fb868d3b1967c71f1289a1895215f",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xbe",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xa361b44e322969c54850d893c7b1f45ea45edfbede294ec557ce8995868b2276",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xbf",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x80ab79d4637d61227369fa4c6fb331a12a4543ea94b9dac388c54243728d940e",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xba46e725ee4466613f56e68ff8c74acd2634900cc5e98f7570405574cf3eb10e",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x5a5849bb0071db1d37b81f6e147e355163bc80379a50d52055cb3ff51de9c4de",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x72fd8baf3d7da5c0c74db688e1410913d4baac50a6c395b782ff93c0b6586717",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xfd5fc3d0e60a678c65bbfbede5af2566301a36e062f3eaff9d96217a0156b256",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x92c1838482730e84db875fa2637af8d760d153b9a6b42801b9142f88c762c433",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xc1daaf88c5e416e025ccf12d3f799cc3e10b0a2284a351607486ef928f1ec3a3",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x90ca5fcc59555635bcaafa8bb37aa612d06e6302303c745e9ca5a4de238c7226",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x407616a6b631fd1f4bb07217421791dfedefb3b97278b4601836c9206171d2f8",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x2a498be79c92162a082e5a048d0605571f3999b7e6dff7bfc63466fa6a35df6f",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xc9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x1ea421a42e1128ee2f394f0561f56dac34e3ea7a89dda95bf01330dab36ba259",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xca",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x0b160b1d865f3e31eeaccb85dcfd5f2efa1acf92f8e30472fe8cc2070b05eb8a",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xcb",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x3f9285366b8642a2853afaeb5190e0fa0d561a8b526005a6d13f0a6029d24959",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xcc",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xb21d396f9effc1b43579d84da9e075f5091e7f70c0202c7044c9810f580fb223",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xcd",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x8d567c83a53e65da550e95804dddf8158a05581ea55139171154725372a93b31",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xce",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x0395867455f4de164b0a6e08a14be2510ce57825427117fcbc64a25567f4b15f",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xcf",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x56f812c5a6c31316cc8980e84ecdde80fde7ecc582cf2fdf6c32f23e206afd83",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xbd91776ca87c6051294a7fd0936faf6616996d191ab9d56e024895efb60ce15e",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x1ede0940026d5fba7bf3ea8f601c3854bbb89921baa6557cda9333bac647c8c6",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xc64ba922ab32e01008589bf92334b59c11454d2c7fc233d61a4dbaa75ecae8c3",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xcf871cc57e6fe91303a988f6de6421f9db07494fc02017ddf1060218e8b205ec",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xcbe7d408f5824fdf9cf3b755ca038a980b11f3487eeba15cba5b2a7ea148a13d",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xbdd8f7c125fce1a72b8b30348fcb8d8e94dd7b22128bb447fd3acc9c0f883ee0",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x79d4fecbc103e7a2b962af450db4dcb1f167f70c371a96d8140b5d690e3a511d",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x2ef9e7aa4a5eddc48e62b2e9037dc29eab5c064be744c8b57cf6a6b075865dbe",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xf6da3deef20b09033afc9d09263d7138ec0509ecd3f1c7d290e9a0cc30bb4384",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xd9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xda",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xdb",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xdc",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xdd",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xde",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xdf",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xe9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xea",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xeb",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xec",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xed",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xee",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xef",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf1",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf2",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf3",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf4",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf5",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf6",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf7",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf8",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf9",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xfa",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xfb",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xfc",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xfd",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xfe",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xff",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x100",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x101",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x102",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x103",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x104",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x105",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x106",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x107",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x108",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x109",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10a",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10b",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10c",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10d",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10e",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x10f",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x110",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x111",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x112",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x113",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x114",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x115",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x116",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x117",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x118",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x119",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x11a",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+      "function": "swap(address,address,uint256)",
+      "arguments": [
+        "0x8f62248b1aB982578e0f59d19076c1bd9C0405f3",
+        "0xbDbD81BEdB050C054643356ebEC720258B9ac81e",
+        "0"
+      ],
+      "transaction": {
+        "from": "0xf93ee28f72069752a808bbf56f9db51952475ae0",
+        "to": "0x47ce967eab4cca879a424ed5720424ae37bf9b0c",
+        "gas": "0x164ff",
+        "value": "0x0",
+        "input": "0xdf791e500000000000000000000000008f62248b1ab982578e0f59d19076c1bd9c0405f3000000000000000000000000bdbd81bedb050c054643356ebec720258b9ac81e0000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0x11b",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x0cd1498d9abe437875ccba73e851ddbddcf7a9c5744683935e9dadc00bb7d5ea",
+    "0x3ce64e0c76f61bccc97a62f2cfbf05f21ac384362a2fdbcd67ac1d7decf33145",
+    "0xe4c1a8e70f877e1df9427c1255337d27e820b32586d10a922ea722dab218b65e",
+    "0xf8fa86f74aa34ea2de19cadb75728bdf5287f71350295ad703f80382c8308034",
+    "0x3cd940be4f17ae3a46dda7303623eb0a875c7623018384cc7ab0478baefac610",
+    "0xab51bd284e3bcf9bbca35cbd13300fdb76b7e6d186950e014d05153d611c8132",
+    "0x8c90bc548ab207e7a31977e161db5a65c2363165b49185dd0473d36cfaf0dc03",
+    "0x96a105c36990e813dbb195c74625118e3f9e0290afe94ab6ff1ae047737b863b",
+    "0x0ab7f4867697990c19a861b76cf9e61eb366dc7cd10e245228415c1037ce76ee",
+    "0x94aa87ca762d46a0d1f30b79ca3ada7403f63aa7497642896dcc69706b9da808",
+    "0xf1659895ca2c83769fa00069746e2565e616f89f93fb3a6e0a96d5cb648cd550",
+    "0xc778b70dcdd15762aa19c6b46bb83613f112d8630166a7e069e4deb300d91a8a",
+    "0x087a82f12389b478f5a234624ec4979352dac15c43eff00517665315789e76ec",
+    "0x9e953875c75380938a901e7dac87c09b541d7091c1aff22cc1fa8101e9a16150",
+    "0xba168e8af3aa53f48c669046bd26511abcf2a31fe6bd86f4b9add145c1a6c30b",
+    "0x242166855f32e968d136650ba7c2253d98092b91bb8fc526b38aff020c09c118",
+    "0xee38535aa9d41d86b437dd6fbbe59e90f9b9445e3622f023b24f7f2eb578c7b4",
+    "0xebb2a9254c4bcfd1625f9e73b1094f0c449daf5aba5caec56b3f49c4bba76f5f",
+    "0xf8819fcf525926e11081016cfa1d56036f9644aba661903272b4beda6364c773",
+    "0x8edb871cf51108e0d1fccd731cac4cd1f00b759310ad3c748c5a5b8e737a4942",
+    "0xf8bb4c4b1f6b4f52350f9355b78b665c0abd8375e3bccf7f35ddf014b2889880",
+    "0x0f1df3e59ea1ca173263069fd7f3968647423c5811690c1f1694989043bce3d8",
+    "0x904cd902409ebd3231b6651b432cba189a8a4f10d333054775c322518020d978",
+    "0x38619a18e57a9f14b4d78e34c5fe261f1412edb18168c41124bb17c781b66030",
+    "0x474b3201b0a168acc888c9d5d316d200c67ea48b32ff0097bbb126db9497fa7c",
+    "0x82ce75d1d31f1ec429a78deb5b363721e4f99fa1757c1edc4553a9c9a6c1d126",
+    "0xe59111ed1136cb17c95ab0799dacc9a6065dbc6d9f254bc690626d321a19fc6f",
+    "0xc9b7f128f1b4c6ef3e2fd76eaa6e500a2bb156f0f25e221e1c33f38505d5c7ae",
+    "0xae136c542df9ceb3549db73b9223d574969134dee0714945aefd9be94f3cb392",
+    "0x71161a4e4c52395c2ab0e22399d32f1caf5e1edb2d5853233a4b2260e85dd73a",
+    "0x0519493fc31779166c865a3702213a51f9dd6475863f25153635605139404c98",
+    "0x7dea85eab449ca797b605ea0d4b402f9680654c0007a76e73397d2bbe7579e29",
+    "0x195fec4ca3e2968c3afc4fd62204ce5754727916e2938fe65d6a2636cc6e22c3",
+    "0x8b2caddfe9fb0735c961777a21452b8adb5c845c7203fa07a068e439a7bfb8a6",
+    "0xdb1883c1296a4df29f3af9eddb01bee6adab04eae3f12550e84464108a9718a3",
+    "0x888396408c34906a8968518704dd6870a5eb0455f1f36018f0b74d753b950887",
+    "0xbb89e07b09fb771fe664406a19ce80e14e79a593ad20a7f540f95499e4bcb0ce",
+    "0xcb5e327843b4cbef13830a128fe49151826e78255bf48185f879a1b3fa521561",
+    "0xfaa44aa4337b4920b3e5827c8aad27c35881a4a50d0ca8cf27084bbfecd66b0d",
+    "0x45709db0401414a790ae54ffafb4c3bd9830d2d6f3af84ae86cb0cc8f8fbf8bb",
+    "0xabb4fa89e7b0f7584a79dd313a2a5c6f79850203074416db337505c0f7462638",
+    "0x4f80a73e80dc27cab49e366b6417e5928b7fb868d3b1967c71f1289a1895215f",
+    "0xa361b44e322969c54850d893c7b1f45ea45edfbede294ec557ce8995868b2276",
+    "0x80ab79d4637d61227369fa4c6fb331a12a4543ea94b9dac388c54243728d940e",
+    "0xba46e725ee4466613f56e68ff8c74acd2634900cc5e98f7570405574cf3eb10e",
+    "0x5a5849bb0071db1d37b81f6e147e355163bc80379a50d52055cb3ff51de9c4de",
+    "0x72fd8baf3d7da5c0c74db688e1410913d4baac50a6c395b782ff93c0b6586717",
+    "0xfd5fc3d0e60a678c65bbfbede5af2566301a36e062f3eaff9d96217a0156b256",
+    "0x92c1838482730e84db875fa2637af8d760d153b9a6b42801b9142f88c762c433",
+    "0xc1daaf88c5e416e025ccf12d3f799cc3e10b0a2284a351607486ef928f1ec3a3",
+    "0x90ca5fcc59555635bcaafa8bb37aa612d06e6302303c745e9ca5a4de238c7226",
+    "0x407616a6b631fd1f4bb07217421791dfedefb3b97278b4601836c9206171d2f8",
+    "0x2a498be79c92162a082e5a048d0605571f3999b7e6dff7bfc63466fa6a35df6f",
+    "0x1ea421a42e1128ee2f394f0561f56dac34e3ea7a89dda95bf01330dab36ba259",
+    "0x0b160b1d865f3e31eeaccb85dcfd5f2efa1acf92f8e30472fe8cc2070b05eb8a",
+    "0x3f9285366b8642a2853afaeb5190e0fa0d561a8b526005a6d13f0a6029d24959",
+    "0xb21d396f9effc1b43579d84da9e075f5091e7f70c0202c7044c9810f580fb223",
+    "0x8d567c83a53e65da550e95804dddf8158a05581ea55139171154725372a93b31",
+    "0x0395867455f4de164b0a6e08a14be2510ce57825427117fcbc64a25567f4b15f",
+    "0x56f812c5a6c31316cc8980e84ecdde80fde7ecc582cf2fdf6c32f23e206afd83",
+    "0xbd91776ca87c6051294a7fd0936faf6616996d191ab9d56e024895efb60ce15e",
+    "0x1ede0940026d5fba7bf3ea8f601c3854bbb89921baa6557cda9333bac647c8c6",
+    "0xc64ba922ab32e01008589bf92334b59c11454d2c7fc233d61a4dbaa75ecae8c3",
+    "0xcf871cc57e6fe91303a988f6de6421f9db07494fc02017ddf1060218e8b205ec",
+    "0xcbe7d408f5824fdf9cf3b755ca038a980b11f3487eeba15cba5b2a7ea148a13d",
+    "0xbdd8f7c125fce1a72b8b30348fcb8d8e94dd7b22128bb447fd3acc9c0f883ee0",
+    "0x79d4fecbc103e7a2b962af450db4dcb1f167f70c371a96d8140b5d690e3a511d",
+    "0x2ef9e7aa4a5eddc48e62b2e9037dc29eab5c064be744c8b57cf6a6b075865dbe",
+    "0xf6da3deef20b09033afc9d09263d7138ec0509ecd3f1c7d290e9a0cc30bb4384"
+  ],
+  "returns": {},
+  "timestamp": 1765927862988,
+  "chain": 11155111,
+  "commit": "cad00f2"
+}
