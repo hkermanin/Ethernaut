@@ -1,66 +1,36 @@
-## Foundry
+# Ethernaut with Foundry
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+A collection of my Solidity practice from levels 22–32 of OpenZeppelin’s
+Ethernaut. I used Foundry to organize the contracts and scripts by level.
 
-Foundry consists of:
+## Covered levels
 
-- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
-- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
-- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
-- **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+| Level | Challenge |
+| --- | --- |
+| 22 | Dex |
+| 23 | Dex Two |
+| 24 | Puzzle Wallet |
+| 25 | Motorbike |
+| 26 | DoubleEntryPoint |
+| 27 | Good Samaritan |
+| 28 | Gatekeeper Three |
+| 29 | Switch |
+| 30 | HigherOrder |
+| 31 | Stake |
+| 32 | Impersonator |
 
-## Documentation
+## Repository layout
 
-https://book.getfoundry.sh/
+- `src/` contains the Solidity contracts organized by level.
+- `script/` contains the corresponding Foundry scripts.
+- `broadcast/` contains records from previous script runs.
 
-## Usage
+## Build locally
 
-### Build
+With Foundry installed:
 
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
+```sh
+git clone --recurse-submodules https://github.com/hkermanin/Ethernaut.git
+cd Ethernaut
+forge build
 ```
